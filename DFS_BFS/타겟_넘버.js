@@ -25,3 +25,9 @@ function solution(numbers, target) {
     
     return count;
 }
+
+/*
+    O(2^N) 이상의 시간 복잡도를 가진 것 같다..
+    
+    어떻게 줄여보지
+*/
